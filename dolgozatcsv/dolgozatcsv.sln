@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dolgozatcsv", "dolgozatcsv\dolgozatcsv.csproj", "{B6065619-6E9C-4B33-9093-AE22F1EAB4A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{3FF28FC3-0645-4961-9A63-82A403CBF489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6065619-6E9C-4B33-9093-AE22F1EAB4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6065619-6E9C-4B33-9093-AE22F1EAB4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6065619-6E9C-4B33-9093-AE22F1EAB4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6065619-6E9C-4B33-9093-AE22F1EAB4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF28FC3-0645-4961-9A63-82A403CBF489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF28FC3-0645-4961-9A63-82A403CBF489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF28FC3-0645-4961-9A63-82A403CBF489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF28FC3-0645-4961-9A63-82A403CBF489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF4E9C4-CEA0-4C1D-935F-15DF620295E1}
+	EndGlobalSection
+EndGlobal
